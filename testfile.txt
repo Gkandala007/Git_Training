@@ -1,1 +1,3 @@
 This is the test file for testing the git functionality
+Appending some dump to the file for testing
+
